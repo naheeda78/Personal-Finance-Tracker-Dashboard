@@ -12,6 +12,7 @@ Design and develop a **Personal Finance Tracker Dashboard** in Excel that offers
 - Interact with data dynamically
 
 ## 📸 Visual Preview
+![Finance Dashboard Preview](https://github.com/naheeda78/Personal-Finance-Tracker-Dashboard/blob/main/Personal%20finance%20tracker%20dashboard.png)
 
 
 ## 🛠️ Tools & Features Used
